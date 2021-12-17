@@ -25,5 +25,5 @@ A 3D-printable case designed with OpenSCAD.
 
 # Blog post
 
-See [my blog](https://mjoldfield.com/atelier/2021/12/car-battery-monitor) for
+See [my blog](https://mjoldfield.com/atelier/2021/12/car-battery-monitor.html) for
 more details.
