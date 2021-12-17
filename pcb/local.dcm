@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PololuDCDC600
+D Pololu 600mA buck converter module
+$ENDCMP
+#
+#End Doc Library
